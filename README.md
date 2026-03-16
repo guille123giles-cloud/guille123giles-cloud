@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guille123giles@gmail.com)
 
 Estudiante avanzado de **Ingeniería en Sistemas de Información** en la **UTN La Plata** (cursando 4to año).  
-Me especializo en el desarrollo de soluciones **Backend** y la **automatización de procesos** complejos. Mi enfoque combina la rigurosidad de la ingeniería con la agilidad de las tecnologías modernas de IA para resolver problemas reales de accesibilidad y productividad.
+Me especializo en el desarrollo de soluciones **Backend**, el diseño de **arquitecturas en la nube (Cloud)** y la **automatización de procesos** complejos. Mi enfoque combina la rigurosidad de la ingeniería con la agilidad de las tecnologías modernas de IA para resolver problemas reales de accesibilidad y productividad.
 
 ---
 
@@ -12,17 +12,17 @@ Me especializo en el desarrollo de soluciones **Backend** y la **automatización
 
 * **Lenguajes:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Smalltalk](https://img.shields.io/badge/Smalltalk-000000?style=flat-square) ![Prolog](https://img.shields.io/badge/Prolog-darkblue?style=flat-square)
 * **Backend & Automatización:** `Asyncio`, `Multi-threading`, `APIs REST`, `n8n`, `Scrapy`.
-* **IA & Computación Visual:** `Gemini API`, `Tesseract OCR`, `Edge-TTS`, `OpenCV`.
+* **IA & Cloud Architecture:** `Microsoft Azure (Blob Storage & AI Translation)`, `Google Gemini 2.5 Flash (Vision/GenAI)`, `Edge-TTS`.
 * **Infraestructura:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
-### 🚀 Proyectos Destacados (AI & Productivity Suite)
+### 🚀 Proyectos Destacados (AI & Cloud Suite)
 
 #### [B2B Document Translator](https://github.com/guille123giles-cloud/b2b-document-translator)
-Plataforma de traducción masiva para documentos técnicos/legales. 
-* **Key Tech:** Concurrencia con `ThreadPoolExecutor`, `pdf2docx` y `XPath`.
-* **Impacto:** Traducción de documentos manteniendo el 100% del formato original con procesamiento en paralelo.
+Plataforma web de traducción masiva y OCR de grado profesional.
+* **Key Tech:** `Azure AI Document Translation`, `Azure Blob Storage`, `Google Gemini 2.5 Flash`, Arquitectura Stateless.
+* **Impacto:** Traducción asíncrona de documentos complejos manteniendo el 100% de la maquetación original, y extracción de texto de imágenes mediante visión artificial, delegando de forma segura la carga computacional a la nube.
 
 #### [AI Note Digitizer Pro](https://github.com/guille123giles-cloud/ai-note-digitizer)
 Digitalizador de apuntes manuscritos de alta precisión.
