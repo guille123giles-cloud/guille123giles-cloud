@@ -20,9 +20,9 @@ Me especializo en el desarrollo de soluciones **Backend**, el diseño de **arqui
 ### 🚀 Proyectos Destacados (AI & Cloud Suite)
 
 #### [B2B Document Translator](https://github.com/guille123giles-cloud/b2b-document-translator)
-Plataforma web de traducción masiva y OCR de grado profesional.
-* **Key Tech:** `Azure AI Document Translation`, `Azure Blob Storage`, `Google Gemini 2.5 Flash`, Arquitectura Stateless.
-* **Impacto:** Traducción asíncrona de documentos complejos manteniendo el 100% de la maquetación original, y extracción de texto de imágenes mediante visión artificial, delegando de forma segura la carga computacional a la nube.
+Plataforma web serverless para traducción masiva y OCR con costo operativo cero.
+* **Key Tech:** `Google Gemini 2.5 Flash`, `deep-translator`, `pdfplumber`, `ReportLab`, `python-docx`, `Arquitectura Stateless`.
+* **Impacto:** Re-ingeniería completa de una solución paga (Azure) a un stack 100% gratuito. Implementación de lógica de reconstrucción de layout para documentos complejos y procesamiento en memoria para garantizar la privacidad de los datos.
 
 #### [AI Note Digitizer Pro](https://github.com/guille123giles-cloud/ai-note-digitizer)
 Digitalizador de apuntes manuscritos de alta precisión.
