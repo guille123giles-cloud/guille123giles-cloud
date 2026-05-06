@@ -103,7 +103,7 @@ Mi enfoque combina la rigurosidad de la ingeniería con la practicidad de las te
 
 | | |
 |---|---|
-| 🏛️ **Ingeniería en Sistemas de Información** | UTN – FRLP · 4° año en curso (2026) |
+| 🏛️ **Ingeniería en Sistemas de Información** | UTN – FRLP · 3° año en curso (2026) |
 | 🌐 **First Certificate in English (B2)** | Cambridge University |
 | 🐳 **Docker & Microservicios** | Formación continua – autodidacta |
 | 🔀 **Git avanzado & flujos de trabajo** | Formación continua – autodidacta |
